@@ -82,3 +82,5 @@ Node.js, Express, MongoDB를 사용하여 간단한 Todo 애플리케이션을 �
       "message": "Todo 작업이 성공적으로 삭제되었습니다."
     }
     ```
+## 해야할일
+Heroku에 연동해서 무료로 api 배포해야함.
